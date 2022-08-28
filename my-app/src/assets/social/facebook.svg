@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="49px" viewBox="0 0 50 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/01 Standard/Social/Facebook</title>
+    <defs>
+        <polygon id="path-1" points="0 0 49 0 49 48.6287879 0 48.6287879"></polygon>
+    </defs>
+    <g id="Global-Footer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer/2-Basement/1-xLarge" transform="translate(-984.000000, -118.000000)">
+            <g id="main" transform="translate(65.000000, 80.000000)">
+                <g id="Follow-Us-group" transform="translate(916.000000, 0.000000)">
+                    <g id="Icons" transform="translate(0.000000, 35.000000)">
+                        <g id="Icon/01-Standard/Social/Facebook" transform="translate(3.500000, 3.500000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M49,24.4629875 C49,10.9524426 38.0309863,0 24.5,0 C10.9690137,0 0,10.9524426 0,24.4629875 C0,36.6731717 8.9592959,46.793586 20.671875,48.6287879 L20.671875,31.5343198 L14.4511719,31.5343198 L14.4511719,24.4629875 L20.671875,24.4629875 L20.671875,19.0734855 C20.671875,12.9424493 24.3295527,9.55585448 29.9258887,9.55585448 C32.6063896,9.55585448 35.4101562,10.0336472 35.4101562,10.0336472 L35.4101562,16.0538355 L32.3207637,16.0538355 C29.2772607,16.0538355 28.328125,17.9395401 28.328125,19.8741228 L28.328125,24.4629875 L35.1230469,24.4629875 L34.0368164,31.5343198 L28.328125,31.5343198 L28.328125,48.6287879 C40.0407041,46.793586 49,36.6731717 49,24.4629875" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
